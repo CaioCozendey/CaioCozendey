@@ -1,9 +1,14 @@
-## Olá 👋 meu nome é Caio Dias
-- Sou um Desenvolvedor Android
+## Olá! 👋 Meu nome é Caio Dias
 - Bem vindo ao meu perfil do GitHub
+
+- Sou um Desenvolvedor Android
+- Sistemas de Informação 5/8
+- Tech 	:heart_on_fire:
 
 
 ### Ferramentas
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    
 
 <!--
 **CaioCozendey/CaioCozendey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
