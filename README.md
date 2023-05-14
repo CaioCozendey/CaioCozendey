@@ -1,7 +1,7 @@
 <div align="center"> 
     <h2> Olá! Me chamo Caio Dias </h2>
     <h3 align="center"> Bem vindo ao meu perfil do GitHub </h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16"/> Desenvolvedor Frontend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16"/><br><br>
+    Desenvolvedor Frontend <br><br>
     :man_student: Sistemas de Informação 7/8 :man_student: <br><br>
     Tech 	:heart_on_fire: 
 </div>
