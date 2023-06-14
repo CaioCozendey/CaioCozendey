@@ -29,6 +29,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="96" height="96"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="96" height="96"/>       
             <i class="devicon-nextjs-plain-wordmark"></i>
+            <i class="devicon-nextjs-original-wordmark"></i>
+          
              
 </div>
 
