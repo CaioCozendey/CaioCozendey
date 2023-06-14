@@ -27,11 +27,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="96" height="96"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="96" height="96"/>          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="96" height="96"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="96" height="96"/>
-
-          
-    <span><i class="devicon-github-original"></i></span>
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="96" height="96"/>       
+            <i class="devicon-nextjs-plain-wordmark"></i>
+             
 </div>
 
 <br>
