@@ -30,6 +30,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="96" height="96"/>
 
           
+            <i class="devicon-github-original"></i>
+          
 </div>
 
 <br>
