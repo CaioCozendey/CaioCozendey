@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/CaioCozendey">
+    <a href="https://github.com/CaioCozendey" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCozendey&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCozendey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -51,7 +51,7 @@
 </div>
           
 <div align="center">
-    <a href="mailto:caiodh22@gmail.com" target = " _blank "> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>  
+    <a href="mailto:caiodh22@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>  
     <a href="https://api.whatsapp.com/send?phone=5522998562641" target = " _blank "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-    <a href="https://www.linkedin.com/in/caio-dias-cozendey-502a1418a/" target = " _blank "> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+    <a href="https://www.linkedin.com/in/caio-dias-cozendey-502a1418a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 </div>
