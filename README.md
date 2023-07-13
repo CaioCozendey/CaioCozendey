@@ -1,8 +1,8 @@
 <div align="center"> 
     <h2> Olá! Me chamo Caio Dias </h2>
     <h3 align="center"> Bem vindo ao meu perfil do GitHub </h3>
-    Desenvolvedor Frontend <br><br>
-    :man_student: Sistemas de Informação 7/8 :man_student: <br><br>
+    Sou um desenvolvedor Frontend Web, as vezes me aventuro em Unreal Engine, e também Python para Bots no Discord! <br><br>
+    :man_student: Sistemas de Informação 8/8 :man_student: <br><br>
     Tech 	:heart_on_fire: 
 </div>
 
