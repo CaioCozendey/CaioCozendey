@@ -1,8 +1,10 @@
 <div align="center"> 
     <h2> Olá! Me chamo Caio Dias </h2>
     <h3 align="center"> Bem vindo ao meu perfil do GitHub </h3>
-    Sou um desenvolvedor Frontend Web, as vezes me aventuro em Unreal Engine!<br><br>
-    :man_student: Sistemas de Informação 8/8 :man_student: <br><br>
+    Sou um desenvolvedor Frontend Web, as vezes me aventuro em Unreal Engine e RPA com Python e Roberty Studio!<br><br>
+    Sou formando em Sistemas de Informação pela UniRedentor AFYA - Itaperuna RJ<br><br>
+    Atualmente trabalho na Tree Inova como desenvolvedor RPA. Utilizo Python, Selenium e a plataforma Roberty Studio com Javascript.<br><br>
+    
     Tech 	:heart_on_fire: 
 </div>
 
