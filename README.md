@@ -4,8 +4,6 @@
     Sou um desenvolvedor Frontend Web, as vezes me aventuro em Unreal Engine e RPA com Python e Roberty Studio!<br><br>
     Sou formando em Sistemas de Informação pela UniRedentor AFYA - Itaperuna RJ<br><br>
     Atualmente trabalho na Tree Inova como desenvolvedor RPA. Utilizo Python, Selenium e a plataforma Roberty Studio com Javascript.<br><br>
-    
-    Tech 	:heart_on_fire: 
 </div>
 
 <br>
