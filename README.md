@@ -3,7 +3,7 @@
     <h3 align="center"> Bem vindo ao meu perfil do GitHub </h3>
     Sou um desenvolvedor Frontend Web, as vezes me aventuro em Unreal Engine e RPA com Python e Roberty Studio!<br><br>
     Sou formando em Sistemas de Informação pela UniRedentor AFYA - Itaperuna RJ<br><br>
-    Atualmente trabalho na Tree Inova como desenvolvedor RPA. Utilizo Python, Selenium e a plataforma Roberty Studio com Javascript.<br><br>
+    Atualmente trabalho na Tree Inova como desenvolvedor RPA, utilizando: Python, Selenium e Pyautogui para desenvolvedor soluções de RPA que melhoram o tempo e o desempenho de tárefas realizadas no dia a dia.<br><br>
 </div>
 
 <br>
